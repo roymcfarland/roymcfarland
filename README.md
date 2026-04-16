@@ -27,25 +27,25 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ## 🌟 Featured Projects
 
-### 1. **Elevated Production Scheduler**  
-*Full-stack AI production scheduler for cannabis manufacturing*  
+### 1. **Production Schedule Forecaster**  
+*Full-stack AI production scheduler for CPG manufacturing*  
 - Replaces spreadsheet planning with AI-driven SKU velocity estimation and prioritized batch recommendations  
 - Stack: React, Express, tRPC, Drizzle ORM, MySQL/TiDB, AWS, Resend  
 - **Why:** Bridges real manufacturing constraints with modern automation for improved execution and planning
 
-### 2. **TaskFlow.center**  
+### 2. **Task Flow**  
 *Cross-platform workflow management app*  
 - Supports multi-list, dashboard/task/kanban workflows, API for automation  
 - Stack: React, TypeScript, Tailwind, Express, tRPC, AWS  
 - **Why:** Proves full-stack and API-first thinking with strong workflow intuition
 
-### 3. **Agentic Daily Briefing**  
+### 3. **Agentic Daily Email Digest**  
 *Automated daily executive briefing tool*  
 - Combines structured task data and external news, deduplicates, ranks, and delivers personalized email digests  
 - Stack: Next.js, Vercel Cron, Resend, TypeScript  
 - **Why:** Shows orchestration across systems and automated executive support
 
-### 4. **JobFinder.guru**  
+### 4. **Job Finder**  
 *AI-powered job search assistant*  
 - Searches multiple job boards, leverages GPT-4o for scoring, learns from feedback, manages application stages  
 - Stack: React, Express, PostgreSQL, Drizzle, GPT-4o, RapidAPI  
@@ -60,7 +60,7 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ---
 
-## 📌 Ideal Job Match
+## 📌 Ideal Job Matches
 
 - Executive or senior builder roles with end-to-end ownership
 - Scope: building internal automation, AI tools, workflow/process platforms, strategic operations
@@ -69,4 +69,4 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ---
 
-**Let’s connect if you’re solving important business problems and need an operator who ships AI-powered solutions.**
+**Let’s connect if you’re solving important business problems and need an operator who ships agentic AI-powered solutions and workflows. Bespoke software in Software 3.0**
