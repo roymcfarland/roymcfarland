@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roy McFarland
+# Roy McFarland
 
 ### Operator-Builder | Applied AI | Business Operations | Workflow Automation
 
@@ -8,7 +8,7 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ---
 
-## 🚀 Highlighted Roles & Strengths
+## Highlighted Roles & Strengths
 
 **Target:**  
 - COO, General Manager, Head/VP of Operations  
@@ -25,7 +25,7 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 1. **Production Schedule Forecaster**  
 *Full-stack AI production scheduler for CPG manufacturing*  
@@ -53,14 +53,14 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ---
 
-## 🟢 Resume/Project-Informed Signals
+## Resume/Project-Informed Signals
 - Built and shipped full-stack, AI-enabled operational systems (portfolio above)
 - Led operating businesses through growth, turnaround, and scaled execution
 - Executive credibility + hands-on technical ability
 
 ---
 
-## 📌 Ideal Job Matches
+## Ideal Job Matches
 
 - Executive or senior builder roles with end-to-end ownership
 - Scope: building internal automation, AI tools, workflow/process platforms, strategic operations
