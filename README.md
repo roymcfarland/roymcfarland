@@ -1,6 +1,6 @@
 # Roy McFarland
 
-### Operator-Builder | Applied AI | Business Operations | Workflow Automation
+### Founder & COO Turned Operator-Builder. Enterprise Workflow Automation via Applied Agentic AI
 
 ---
 
@@ -45,27 +45,11 @@ I’m an **operator-builder** who deeply understands business operations, with h
 - Stack: Next.js, Vercel Cron, Resend, TypeScript  
 - **Why:** Shows orchestration across systems and automated executive support
 
-### 4. **Job Finder**  
+### 4. **Job Finder**  www.jobfinder.guru
 *AI-powered job search assistant*  
 - Searches multiple job boards, leverages GPT-4o for scoring, learns from feedback, manages application stages  
 - Stack: React, Express, PostgreSQL, Drizzle, GPT-4o, RapidAPI  
 - **Why:** Brings personalization and feedback learning into applied AI product development
-
----
-
-## Resume/Project-Informed Signals
-- Built and shipped full-stack, AI-enabled operational systems (portfolio above)
-- Led operating businesses through growth, turnaround, and scaled execution
-- Executive credibility + hands-on technical ability
-
----
-
-## Ideal Job Matches
-
-- Executive or senior builder roles with end-to-end ownership
-- Scope: building internal automation, AI tools, workflow/process platforms, strategic operations
-- Fast-moving, startup-like environments or transformational mandates
-- Remote/hybrid strongly preferred
 
 ---
 
