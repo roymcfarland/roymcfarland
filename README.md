@@ -1,6 +1,6 @@
 # Roy McFarland
 
-### Founder & COO Turned Operator-Builder. Enterprise Workflow Automation via Applied Agentic AI
+### COO Turned Operator-Builder. Enterprise Workflow Automation via Applied Agentic AI
 
 ---
 
