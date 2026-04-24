@@ -1,6 +1,6 @@
 # Roy McFarland
 
-### COO Turned Operator-Builder. Enterprise Workflow Automation via Applied Agentic AI
+### COO Turned Operator-Builder. Creating Workflow Automations & Applied Agentic AI.
 
 ---
 
@@ -27,19 +27,19 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ## Featured Projects
 
-### 1. **Production Schedule Forecaster**  
+### 1. **Production Schedule Forecaster** www.cpgscheduler.com 
 *Full-stack AI production scheduler for CPG manufacturing*  
 - Replaces spreadsheet planning with AI-driven SKU velocity estimation and prioritized batch recommendations  
 - Stack: React, Express, tRPC, Drizzle ORM, MySQL/TiDB, AWS, Resend  
 - **Why:** Bridges real manufacturing constraints with modern automation for improved execution and planning
 
-### 2. **Task Flow**  
+### 2. **Workflow Blueprint** www.workflowblueprint.io 
 *Cross-platform workflow management app*  
-- Supports multi-list, dashboard/task/kanban workflows, API for automation  
+- Supports multi-list, dashboard/task/kanban workflows, API for use by other apps I'm building 
 - Stack: React, TypeScript, Tailwind, Express, tRPC, AWS  
 - **Why:** Proves full-stack and API-first thinking with strong workflow intuition
 
-### 3. **Agentic Daily Email Digest**  
+### 3. **Agentic Email - Daily Digest** www.roymcfarland.news
 *Automated daily executive briefing tool*  
 - Combines structured task data and external news, deduplicates, ranks, and delivers personalized email digests  
 - Stack: Next.js, Vercel Cron, Resend, TypeScript  
@@ -53,4 +53,4 @@ I’m an **operator-builder** who deeply understands business operations, with h
 
 ---
 
-**Let’s connect if you’re solving important business problems and need an operator who ships agentic AI-powered solutions and workflows. Bespoke software in Software 3.0**
+**Connect with me if you’re solving important business problems, exploring ways to implement swarm AI, or need an operator who ships agentic AI-powered solutions and workflows.**
