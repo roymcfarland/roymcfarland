@@ -33,19 +33,7 @@ I’m an **operator-builder** who deeply understands business operations, with h
 - Stack: React, Express, tRPC, Drizzle ORM, MySQL/TiDB, AWS, Resend  
 - **Why:** Bridges real manufacturing constraints with modern automation for improved execution and planning
 
-### 2. **Workflow Blueprint** www.workflowblueprint.io 
-*Cross-platform workflow management app*  
-- Supports multi-list, dashboard/task/kanban workflows, API for use by other apps I'm building 
-- Stack: React, TypeScript, Tailwind, Express, tRPC, AWS  
-- **Why:** Proves full-stack and API-first thinking with strong workflow intuition
-
-### 3. **Agentic Email - Daily Digest** www.roymcfarland.news
-*Automated daily executive briefing tool*  
-- Combines structured task data and external news, deduplicates, ranks, and delivers personalized email digests  
-- Stack: Next.js, Vercel Cron, Resend, TypeScript  
-- **Why:** Shows orchestration across systems and automated executive support
-
-### 4. **Job Finder**  www.jobfinder.guru
+### 2. **Atlas**  www.jobfinder.guru
 *AI-powered job search assistant*  
 - Searches multiple job boards, leverages GPT-4o for scoring, learns from feedback, manages application stages  
 - Stack: React, Express, PostgreSQL, Drizzle, GPT-4o, RapidAPI  
