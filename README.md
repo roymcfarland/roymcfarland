@@ -1,6 +1,6 @@
 # Roy McFarland
 
-### COO Turned Operator-Builder. Creating Workflow Automations & Applied Agentic AI.
+### Applied Agentic AI & Enterprise Workflow Automation · 4x Exit Operator · Former CPG COO
 
 ---
 
