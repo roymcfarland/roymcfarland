@@ -2,7 +2,7 @@
 
 > I spent 15 years on the buying end of enterprise SaaS. Most of it was too big, too slow, and built for everyone instead of for the work in front of my operators. Modern agentic tools changed the equation, so I went back to writing the code myself.
 
-Applied AI implementation leader. Operator-builder. 3x founder, 4x exit operator. Named inventor on patents PCT/US2016/053346 and PCT/US2021/045248. Licensed Colorado attorney.
+Applied AI implementation leader. Operator-builder. 3x founder, 4x exit operator. Named inventor on patents PCT/US2016/053346. Licensed Colorado attorney.
 
 I run [**Brightline Labs**](https://brightline.io), an applied AI software studio building lightweight, fit-for-purpose tools for the operational workflows enterprise SaaS does not handle well.
 
