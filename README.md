@@ -69,12 +69,12 @@ I have run P&Ls, scaled multi-state and multi-country manufacturing, led facilit
 
 ## Stack
 
-**Languages:** TypeScript · JavaScript · Python
-**Frontend:** Next.js (App Router) · React · HTML / CSS
-**Backend & data:** Node.js · Prisma · Drizzle · Postgres · MySQL/TiDB · Redis/Upstash
-**AI / agents:** OpenAI API · MCP (Model Context Protocol) · custom feedback-learning loops · three-LLM advisor/builder/verifier pipeline
-**Infra & delivery:** Vercel · Vercel Cron · Resend · GitHub Actions
-**Tooling:** Cursor · Codex · Manus
+- **Languages:** TypeScript · JavaScript · Python
+- **Frontend:** Next.js (App Router) · React · HTML / CSS
+- **Backend & data:** Node.js · Prisma · Drizzle · Postgres · MySQL/TiDB · Redis/Upstash
+- **AI / agents:** OpenAI API · MCP (Model Context Protocol) · custom feedback-learning loops · three-LLM advisor/builder/verifier pipeline
+- **Infra & delivery:** Vercel · Vercel Cron · Resend · GitHub Actions
+- **Tooling:** Cursor · Codex · Manus
 
 ## Ask me about
 
