@@ -24,8 +24,6 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 
 ## Featured work
 
-[#featured-work](#featured-work)
-
 | Project | What it is | Stack | Status / License |
 | --- | --- | --- | --- |
 | [CPG Production Scheduler](https://cpgscheduler.com) | Full-stack production scheduling and inventory planning for CPG manufacturers; running daily at a real facility | TypeScript · Next.js 15 · Drizzle · MySQL/TiDB | Private · Commercializing |
@@ -41,13 +39,9 @@ The most commercially useful work is private; the public repos are methodology, 
 
 ## See Atlas in action
 
-[#see-atlas-in-action](#see-atlas-in-action)
-
 A 90-second walkthrough of the LLM relevance scoring and feedback loop:
 
-<!-- Drag your MP4 from Descript onto the line below in GitHub's web editor.
-     GitHub uploads it and replaces this with a native inline player.
-     On Pro your limit is 100 MB, so the clip will fit. -->
+https://github.com/user-attachments/assets/a6457689-59ed-4c00-849e-778c2701c39c
 
 ## Why this work, and why now
 
