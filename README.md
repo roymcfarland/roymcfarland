@@ -11,7 +11,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 - **6 products shipped in 5 months** across production scheduling, AI job search, agent auditability, task orchestration, decision-support, and open-source utilities
 - **11 years on npm** — `recollie` first published in 2015, modernized to v2.0.0 in 2026 (the gap is the point)
 - **4 exits across 4 distinct models** — services-firm sale, $20M IPO on CSE, PE platform acquisition, mid-market rollup
-- **102 repositories total**, 7 worth featuring (below)
+- **111 repositories total**, 7 worth featuring (below)
 
 ## Where my work sits
 
