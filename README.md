@@ -24,11 +24,13 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 
 ## Featured work
 
+[#featured-work](#featured-work)
+
 | Project | What it is | Stack | Status / License |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | [CPG Production Scheduler](https://cpgscheduler.com) | Full-stack production scheduling and inventory planning for CPG manufacturers; running daily at a real facility | TypeScript · Next.js 15 · Drizzle · MySQL/TiDB | Private · Commercializing |
 | [LLM Workbench](https://llmworkbench.io) | Debug, replay, fork, and audit LLM agent execution against frozen DAG snapshots | TypeScript monorepo · React adapter · IndexedDB + HTTP persistence | Private · Commercializing |
-| [Atlas](https://jobfinder.guru) | AI-powered job search with LLM-based relevance scoring and a feedback-learning loop | TypeScript · Next.js · OpenAI API | Private · Commercializing |
+| [Atlas](https://jobfinder.guru) | AI-powered job search with LLM-based relevance scoring and a feedback-learning loop · [▶ 90-sec demo](#see-atlas-in-action) | TypeScript · Next.js · OpenAI API | Private · Commercializing |
 | [Atlas Beta Bug Reporter](https://brightlinebugs.com) | Authenticated bug-inbox companion to Atlas — deliberately framework-free | Node.js 20+ · Postgres · Vercel Cron · Resend | Public · MIT |
 | [Workflow Blueprint](https://workflowblueprint.io) | Invite-gated agentic task workspace with a key-authenticated external API | Next.js · Prisma · Postgres | Public · PolyForm Noncommercial 1.0.0 |
 | [Agentic Daily Digest](https://roymcfarland.news) | Daily decision-support agent that consumes Workflow Blueprint's API and live news RSS | Next.js · Vercel Cron · Resend · Redis/Upstash | Public · PolyForm Noncommercial 1.0.0 |
@@ -36,6 +38,16 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 | [recollie](https://www.npmjs.com/package/recollie) | Dependency-free Node.js client for public US recall APIs · maintained across an 11-year version gap | Node 18+ · TypeScript declarations · zero dependencies | Public · MIT |
 
 The most commercially useful work is private; the public repos are methodology, infrastructure, companion apps, and open-source utilities. The pattern is deliberate: ship the product private, ship the infrastructure around it public.
+
+## See Atlas in action
+
+[#see-atlas-in-action](#see-atlas-in-action)
+
+A 90-second walkthrough of the LLM relevance scoring and feedback loop:
+
+<!-- Drag your MP4 from Descript onto the line below in GitHub's web editor.
+     GitHub uploads it and replaces this with a native inline player.
+     On Pro your limit is 100 MB, so the clip will fit. -->
 
 ## Why this work, and why now
 
