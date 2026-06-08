@@ -57,10 +57,10 @@ My best software ideas usually start with a sentence I heard, said, or muttered 
 
 Before Brightline, I led or founded four businesses to exit across four different models:
 
-- **Brightacre Law (founder, 2010–2014)** — professional services firm scaled to 16 attorneys across 3 offices; sold to a national firm
-- **PLUS Products (co-founder & COO, 2015–2018)** — regulated CPG manufacturer from concept to IPO on the CSE (CSE:PLUS); $20M raise at ~$100M valuation; named inventor on PCT/US2016/053346
-- **Flor Americas (founder & MD, 2019–2022)** — biotech innovation consultancy across 7 countries, $0 → $10M+ peak revenue; sold to a Miami-based PE platform
 - **Carbon Chemistry (managing director, 2022–2023)** — specialty-chemicals turnaround; sold to Linde via mid-market rollup
+- **Flor Americas (founder & MD, 2019–2022)** — biotech innovation consultancy across 7 countries, $0 → $10M+ peak revenue; sold to a Miami-based PE platform
+- **PLUS Products (co-founder & COO, 2015–2018)** — regulated CPG manufacturer from concept to IPO on the CSE (CSE:PLUS); $20M raise at ~$100M valuation; named inventor on PCT/US2016/053346
+- **Brightacre Law (founder, 2010–2014)** — professional services firm scaled to 16 attorneys across 3 offices; sold to a national firm
 
 I have run P&Ls, scaled multi-state and multi-country manufacturing, led facility buildouts, implemented ERP / CRM / MRP, raised capital, executed acquisitions, and worked through the operating reality that software is supposed to help.
 
