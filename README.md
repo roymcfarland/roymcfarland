@@ -28,7 +28,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 |---|---|---|---|
 | [CPG Production Scheduler](https://cpgscheduler.com) | Full-stack production scheduling and inventory planning for CPG manufacturers; running daily at a real facility | TypeScript · Next.js 15 · Drizzle · MySQL/TiDB | Private · Commercializing |
 | [LLM Workbench](https://llmworkbench.io) | Debug, replay, fork, and audit LLM agent execution against frozen DAG snapshots | TypeScript monorepo · React adapter · IndexedDB + HTTP persistence | Private · Commercializing |
-| [Atlas](https://jobfinder.guru) | AI-powered job search with GPT-5.5 scoring and a feedback-learning loop | TypeScript · Next.js · OpenAI API | Private · Commercializing |
+| [Atlas](https://jobfinder.guru) | AI-powered job search with LLM-based relevance scoring and a feedback-learning loop | TypeScript · Next.js · OpenAI API | Private · Commercializing |
 | [Atlas Beta Bug Reporter](https://brightlinebugs.com) | Authenticated bug-inbox companion to Atlas — deliberately framework-free | Node.js 20+ · Postgres · Vercel Cron · Resend | Public · MIT |
 | [Workflow Blueprint](https://workflowblueprint.io) | Invite-gated agentic task workspace with a key-authenticated external API | Next.js · Prisma · Postgres | Public · PolyForm Noncommercial 1.0.0 |
 | [Agentic Daily Digest](https://roymcfarland.news) | Daily decision-support agent that consumes Workflow Blueprint's API and live news RSS | Next.js · Vercel Cron · Resend · Redis/Upstash | Public · PolyForm Noncommercial 1.0.0 |
