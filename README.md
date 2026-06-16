@@ -27,7 +27,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 | Project | What it is | Stack | Status / License |
 | --- | --- | --- | --- |
 | [CPG Production Scheduler](https://cpgscheduler.com) | Full-stack production scheduling and inventory planning for CPG manufacturers; running daily at a real facility | TypeScript · Next.js 15 · Drizzle · MySQL/TiDB | Private · Commercializing |
-| [LLM Workbench](https://llmworkbench.io) | Debug, replay, fork, and audit LLM agent execution against frozen DAG snapshots | TypeScript monorepo · React adapter · IndexedDB + HTTP persistence | Private · Commercializing |
+| [LLM Workbench](https://llmworkbench.io) | Debug, replay, fork, and audit LLM agent execution against frozen DAG snapshots | TypeScript monorepo · React adapter · IndexedDB + HTTP persistence | Public · MIT · [npm](https://www.npmjs.com/package/@llm-workbench/runtime) |
 | [Atlas](https://jobfinder.guru) | AI-powered job search with LLM-based relevance scoring and a feedback-learning loop · [▶ 90-sec demo](#see-atlas-in-action) | TypeScript · Next.js · OpenAI API | Private · Commercializing |
 | [Atlas Beta Bug Reporter](https://brightlinebugs.com) | Authenticated bug-inbox companion to Atlas — deliberately framework-free | Node.js 20+ · Postgres · Vercel Cron · Resend | Public · MIT |
 | [Workflow Blueprint](https://workflowblueprint.io) | Invite-gated agentic task workspace with a key-authenticated external API | Next.js · Prisma · Postgres | Public · PolyForm Noncommercial 1.0.0 |
@@ -35,7 +35,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 | [Builder & Verifier Agent Handoff](https://worksmithlabs.com) | Open-source three-LLM methodology: advisor plans, builder ships, verifier reviews before merge | Markdown · TypeScript · Python | Public · MIT |
 | [recollie](https://www.npmjs.com/package/recollie) | Dependency-free Node.js client for public US recall APIs · maintained across an 11-year version gap | Node 18+ · TypeScript declarations · zero dependencies | Public · MIT |
 
-The most commercially useful work is private; the public repos are methodology, infrastructure, companion apps, and open-source utilities. The pattern is deliberate: ship the product private, ship the infrastructure around it public.
+The most commercially useful vertical products stay private; the public repos are methodology, infrastructure, companion apps, and open-source utilities — now led by LLM Workbench, open-sourced under MIT and published to npm. The pattern is deliberate: ship the domain-specific products private, open-source the infrastructure around them.
 
 ## See Atlas in action
 
