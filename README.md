@@ -33,7 +33,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 | [Workflow Blueprint](https://workflowblueprint.io) | Invite-gated agentic task workspace with a key-authenticated external API | Next.js · Prisma · Postgres | Public · PolyForm Noncommercial 1.0.0 |
 | [Agentic Daily Digest](https://roymcfarland.news) | Daily decision-support agent that consumes Workflow Blueprint's API and live news RSS | Next.js · Vercel Cron · Resend · Redis/Upstash | Public · PolyForm Noncommercial 1.0.0 |
 | [Builder & Verifier Agent Handoff](https://worksmithlabs.com) | Open-source three-LLM methodology: advisor plans, builder ships, verifier reviews before merge | Markdown · TypeScript · Python | Public · MIT |
-| [recollie](https://www.npmjs.com/package/recollie) | Dependency-free Node.js client for public US recall APIs · maintained across an 11-year version gap | Node 18+ · TypeScript declarations · zero dependencies | Public · MIT |
+| [recollie](https://www.npmjs.com/package/recollie) | Dependency-free Node.js client for public US recall APIs · maintained across an 11-year version gap | Node 18+ · TypeScript declarations · zero dependencies | Public · MIT · [npm](https://www.npmjs.com/package/recollie) |
 
 The most commercially useful vertical products stay private; the public repos are methodology, infrastructure, companion apps, and open-source utilities — now led by LLM Workbench, open-sourced under MIT and published to npm. The pattern is deliberate: ship the domain-specific products private, open-source the infrastructure around them.
 
