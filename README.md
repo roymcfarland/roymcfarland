@@ -18,7 +18,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 - Applied AI implementation
 - Enterprise workflow automation
 - Production scheduling and inventory planning
-- LLM agent observability, replay, and auditability
+- Open-source LLM agent observability, replay, and auditability
 - Domain-specific internal tools for operators
 - Agentic development workflows with independent verification
 
@@ -27,7 +27,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 | Project | What it is | Stack | Status / License |
 | --- | --- | --- | --- |
 | [CPG Production Scheduler](https://cpgscheduler.com) | Full-stack production scheduling and inventory planning for CPG manufacturers; running daily at a real facility | TypeScript · Next.js 15 · Drizzle · MySQL/TiDB | Private · Commercializing |
-| [LLM Workbench](https://llmworkbench.io) | Debug, replay, fork, and audit LLM agent execution against frozen DAG snapshots | TypeScript monorepo · React adapter · IndexedDB + HTTP persistence | Public · MIT · [npm](https://www.npmjs.com/package/@llm-workbench/runtime) |
+| [LLM Workbench](https://llmworkbench.io) | Model-agnostic control plane that turns each LLM agent run into a tamper-evident, replayable bundle you can inspect, fork, and audit; five packages on npm, live no-signup demo | TypeScript monorepo · MCP · Vercel AI SDK · React | Public · MIT · [npm](https://www.npmjs.com/org/llm-workbench) |
 | [Atlas](https://jobfinder.guru) | AI-powered job search with LLM-based relevance scoring and a feedback-learning loop · [▶ 90-sec demo](#see-atlas-in-action) | TypeScript · Next.js · OpenAI API | Private · Commercializing |
 | [Atlas Beta Bug Reporter](https://brightlinebugs.com) | Authenticated bug-inbox companion to Atlas — deliberately framework-free | Node.js 20+ · Postgres · Vercel Cron · Resend | Public · MIT |
 | [Workflow Blueprint](https://workflowblueprint.io) | Invite-gated agentic task workspace with a key-authenticated external API | Next.js · Prisma · Postgres | Public · PolyForm Noncommercial 1.0.0 |
@@ -78,20 +78,20 @@ I have run P&Ls, scaled multi-state and multi-country manufacturing, led facilit
 - **Languages:** TypeScript · JavaScript · Python
 - **Frontend:** Next.js (App Router) · React · HTML / CSS
 - **Backend & data:** Node.js · Prisma · Drizzle · Postgres · MySQL/TiDB · Redis/Upstash
-- **AI / agents:** OpenAI API · MCP (Model Context Protocol) · custom feedback-learning loops · three-LLM advisor/builder/verifier pipeline
+- **AI / agents:** OpenAI API · MCP (Model Context Protocol) · open-source LLM control plane (LLM Workbench) · custom feedback-learning loops · three-LLM advisor/builder/verifier pipeline
 - **Infra & delivery:** Vercel · Vercel Cron · Resend · GitHub Actions
-- **Tooling:** Cursor · Codex · Manus
+- **Tooling:** Cursor · Codex · Claude Code
 
 ## Ask me about
 
 - Production scheduling built from scratch in Next.js
+- Open-sourcing an LLM control plane and making it genuinely installable
 - The 11-year gap between `recollie` v1 and v2
 - Why "lightweight and fit-for-purpose" beats "configurable and comprehensive" almost every time
 - Running a three-LLM advisor / builder / verifier pipeline as a real software-delivery process
 
 ## Connect
 
-- Website — [brightline.io](https://brightline.io)
 - LinkedIn — [linkedin.com/in/roymcfarland](https://www.linkedin.com/in/roymcfarland)
 - npm — [npmjs.com/~roymcfarland](https://www.npmjs.com/~roymcfarland)
 - Email — [roy@brightline.io](mailto:roy@brightline.io)
