@@ -2,7 +2,7 @@
 
 > I spent 15 years on the buying end of enterprise SaaS. Most of it was too big, too slow, and built for everyone instead of for the work in front of my operators. Modern agentic tools changed the equation, so I went back to writing the code myself.
 
-Applied AI implementation leader. Operator-builder. 3x founder, 4x exit operator. Named inventor on patents PCT/US2016/053346.
+Applied AI implementation leader. Operator-builder. 3x founder, 4x exit operator. Named inventor on patent PCT/US2016/053346.
 
 I run [**Brightline Labs**](https://brightline.io), an applied AI software studio building lightweight, fit-for-purpose tools for the operational workflows enterprise SaaS does not handle well.
 
@@ -11,7 +11,7 @@ I run [**Brightline Labs**](https://brightline.io), an applied AI software studi
 - **6 products shipped in 5 months** across production scheduling, AI job search, agent auditability, task orchestration, decision-support, and open-source utilities
 - **11 years on npm** — `recollie` first published in 2015, modernized to v2.0.0 in 2026 (the gap is the point)
 - **4 exits across 4 distinct models** — services-firm sale, $20M IPO on CSE, PE platform acquisition, mid-market rollup
-- **111 repositories total**, 7 worth featuring (below)
+- **112 repositories total**, 7 worth featuring (below)
 
 ## Where my work sits
 
